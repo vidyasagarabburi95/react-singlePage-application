@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.flex-container {
+  display: flex;
+  padding-left: 0px;
+}
+li {
+  list-style-type: none;
+}
+.image {
+  height: 50px;
+  width: 50px;
+}
+.flex {
+  display: flex;
+  justify-content: flex-start;
+}
+.header-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 32px;
+}
+.nav-link {
+  margin-left: 16px;
+  color: #12022f;
+  font-size: 16px;
+  font-weight: bold;
+}

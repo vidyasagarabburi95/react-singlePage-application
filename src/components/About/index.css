@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+* {
+  font-family: 'Roboto';
+}
+.flex-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  color: #6d396b;
+  font-size: 30px;
+  font-weight: bold;
+}
